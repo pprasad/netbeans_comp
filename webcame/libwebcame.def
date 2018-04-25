@@ -1,0 +1,6 @@
+EXPORTS
+    Java_WebCam_clipBoard @1
+    Java_WebCam_connect @2
+    Java_WebCam_disConnect @3
+    Java_WebCam_getDevices @4
+    Java_WebCam_getImage @5
